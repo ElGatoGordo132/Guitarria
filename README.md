@@ -1,0 +1,2 @@
+# Guitarria
+This is a mod that aims to add a variety of guitar-based weapons to the world of Terraria!  It currently adds 12 weapons which span multiple areas of progression, from early game to endgame.   Please note that I am by no means a programmer/coder and this is my first attempt at ever making a mod or experimenting with code. As a result, some things may be rough around the edges. I'm hoping that by making this mod I can aim to improve my programming and spriting skills.  Thank you for your interest!  - FatCat
